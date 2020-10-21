@@ -1,2 +1,2 @@
 file1 test
-line from user1
+second line (from branch master)
