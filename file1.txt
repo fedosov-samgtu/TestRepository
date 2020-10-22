@@ -1,4 +1,7 @@
 file1 test
 line from user2
 some new feature
-rebase user1456
+rebase user1
+1
+2
+3
